@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thirst.com.ph	TRUE	/	FALSE	1999999999	cart_token	fSHj7fPNBq1x4cF8ADqJGAT5
+www.thirst.com.ph	TRUE	/	FALSE	1999999999	_thirstph_session	fyK8%2BsYwvY%2BBHESzE9hZEOsW2R1zIcdAmOXX6VMeBU52J3dE%2B6gGAMZYjvnUDAcNjr46byzbQbNqEue8HM7C%2Bk8HPcHicHJdUTp3IAujwiRpHKRuvyWu7GL%2FsBfzrq2ZwWVurDWPm%2BLkl4P8g3ChRn%2Bc1cDgzzmlXfyrX%2FbcWOO1crUY2lVmhTP2LQQ18DPenCU3BKUVoU3TGaJFlHjVbubuBWGVb96bHUQA1fvcKB6fYD196p0GkhVxKDjEfTiaVOI1RQbnVGshimoHdMo%2FKIPp4gJK90xgMA%3D%3D--LPjGD%2FoMX2NhUar4--qLe0W2DJj5C6bmJnu1HIWg%3D%3D
+www.thirst.com.ph	TRUE	/	FALSE	1999999999	SameSite	Lax
+
